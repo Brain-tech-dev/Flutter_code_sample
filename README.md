@@ -1,2 +1,16 @@
-# Flutter_code_sample
-A comprehensive Flutter repository featuring a responsive, cross-platform UI, optimized performance, and reusable widgets tailored for a seamless user experience across Android and iOS devices.
+# flutter_demo
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
