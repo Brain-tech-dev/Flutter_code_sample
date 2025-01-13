@@ -1,0 +1,16 @@
+{
+  "error_during_communication": "Error During Communication: ",
+  "handshake_exception": "Data Parsing Error, We couldn't process the data from the server. Please try again later.",
+  "unprocessable_response": "Unexpected Server Response, We're experiencing technical difficulties with our server. Please try again later.",
+  "timed_out_or_no_internet": "Connection Timed Out, It appears there is an issue with your internet connection or the server is unreachable. Please check your internet connection and try again.",
+  "bad_request_exception": "Sorry for the inconvenience, We've encountered a bad request error. Please retry again.",
+  "unauthorized_exception": "Unauthorized Access, You do not have permissions to access this resource. Please ensure you are authenticated and authorized to access this content.",
+  "forbidden_exception": "Access Forbidden, You do not have permission to access the resource. Please ensure you are authorized to view or modify this content.",
+  "request_not_found_exception": "Resource Not Found, The requested resource could not be found. Please verify the URL and try again.",
+  "method_not_allowed_exception": "Method Not Allowed, The requested method is not supported for this resource.",
+  "conflict_in_request_exception": "Request could not be processed because of conflict in the request, Please try again.",
+  "server_error_exception": "Internal Server Error, Please try a few minutes later.",
+  "service_unavailable_exceeption": "The server is currently unable to handle the request due to temporary overloading or maintenance of the server.",
+  "unknown_error_exception": "Unknown Error, Something unexpected happened. Please try again later or contact support for assistance.",
+  "vpn_usage_exception": "you are using vpn"
+}
